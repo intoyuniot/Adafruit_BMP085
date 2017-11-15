@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Adafruit_BMP085   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+readTemperature  KEYWORD2
+readPressure  KEYWORD2
+readAltitude  KEYWORD2
+readRawTemperature  KEYWORD2
+readRawPressure  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
